@@ -83,7 +83,7 @@ bytewords/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bytewords.git
+git clone https://github.com/Githubsuer1/byteWords.git
 cd bytewords
 
 
