@@ -134,9 +134,9 @@ This project is licensed under the MIT License.
 
 👨‍💻 Author
 Siddhant Mishra
-📧 Email: your.email@example.com
-🌐 Portfolio: your-portfolio-link.com
-📱 LinkedIn: linkedin.com/in/yourprofile
+📧 Email: mishrasiddhant560@gmail.com
+🌐 Portfolio: https://portfolio-siddhant-mishra.vercel.app/
+📱 LinkedIn: www.linkedin.com/in/siddhant-mishra-developer
 
 Made with 💻 + ☕ by Siddhant Mishra
 
